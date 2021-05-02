@@ -1,5 +1,17 @@
 package java_16_17;
 
+/*
+usefull articles :
+
+https://blogs.oracle.com/javamagazine/records-come-to-java#anchor_8
+https://www.baeldung.com/java-record-keyword
+http://tutorials.jenkov.com/java/record.html
+https://openjdk.java.net/jeps/359
+https://openjdk.java.net/jeps/395 (openjdk 16)
+
+*/
+
+
 import java.util.ArrayList;
 import java.util.Collections;
 
